@@ -1,5 +1,7 @@
 # Handwritten_Maths_Evaluator
 ### Handwritten Maths expression recognizer and calculator 
+![image](https://user-images.githubusercontent.com/75238435/139555619-fe3d2451-3037-4351-805c-4734f8fc7be3.png)
+
 
 - [main.ipynb](https://github.com/nikkii03/Handwritten_Maths_Evaluator/blob/main/main.ipynb)     : It contains the code for model creation and training
 - [model.h5](https://github.com/nikkii03/Handwritten_Maths_Evaluator/blob/main/model.h5)         : The trained model which can recognise digits (0,9) and operators (division, multiplication , addition, substraction
